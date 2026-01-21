@@ -1,6 +1,7 @@
 # AdGuardHome_rules
 
-此仓库是我的个人AdGuardHome自定义规则存档，主要用于Android设备，Magisk模块项目地址：<https://github.com/JGeek00/adguard-home-manager>
+此仓库是我的个人AdGuardHome自定义规则存档，主要用于Android设备（电脑建议使用[AdGuard](https://adguard.com/zh_cn/welcome.html)）  
+Magisk模块项目地址：<https://github.com/JGeek00/adguard-home-manager>
 
 常用的DNS地址：[DNS](DNS.md)
 
