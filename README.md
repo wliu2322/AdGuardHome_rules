@@ -1,8 +1,15 @@
 # AdGuardHome_rules
 
-这是我的个人AdGuardHome自定义规则存档，主要用于Android设备，Magisk模块项目地址：<https://github.com/JGeek00/adguard-home-manager>
+此仓库是我的个人AdGuardHome自定义规则存档，主要用于Android设备，Magisk模块项目地址：<https://github.com/JGeek00/adguard-home-manager>
+
+常用的DNS地址：[DNS](DNS.md)
+
+AdGuardHome规则存档：[规则存档](Rules)
 
 ![O_O](/image/u1f633_u1f633.png)
+
+
+
 > emoji kitchen地址：<https://emojikitchen.dev/>  
-AdGuardHome项目地址：<https://github.com/AdguardTeam/AdGuardHome>
+> AdGuardHome项目地址：<https://github.com/AdguardTeam/AdGuardHome>
 
