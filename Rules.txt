@@ -26,9 +26,12 @@
 @@||v2.alinodecn.com^$important
 @@||www.tomatov2.buzz^$important
 @@||v1.alinodecn.com^$important
-!从雨云机场
+!丛雨云鸡场
 @@||congyu.moe^$important
 !magiccat机场
+@@||fb0cbd6c-a8c6-4f13-b32f-220a020378eb.amf653.com^$important
+@@||mofacgb.top^$important
+@@||mofacgb.cc^$important
 @@||mofacga.top^$important
 @@||acgimg.top^$important
 @@||mapi.magicat.sbs^$important
