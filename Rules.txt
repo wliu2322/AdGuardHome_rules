@@ -64,4 +64,6 @@
 !mtool更新和官网
 @@||trs.mtool.app^
 @@||mtool.app^$important
+!QQ空间发布说说误杀
+@@||cfg.imtt.qq.com^$important
 !
