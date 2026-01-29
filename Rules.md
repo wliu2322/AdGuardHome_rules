@@ -70,6 +70,8 @@
     @@||mtool.app^$important
     !QQ空间发布说说误杀
     @@||cfg.imtt.qq.com^$important
+    !哔哩哔哩视频跳转链接
+    @@||b23.tv^$important
     !
 
 ___
