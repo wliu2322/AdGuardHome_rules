@@ -28,7 +28,7 @@
     @@||oss.mxuo61huwxwwqf1p.admin-console-dv.com^$important
     @@||c2659531-a9d0-4ef2-a013-6939dd9a593f.amf653.com^$important
     @@||189957c1-ea8c-4c28-82a4-2087ca774e5a.mf2391a2-ccb4-4d44-b5ad-7a25319cf09f.top^$important
-    !!!!!!!!!!!!!!!!!!!!!第三方APP或网站
+    !!!!!!!!!!!!!!!!!!!!!APP或网站
     !小米日历订阅服务
     @@||api.comm.miui.com^$important
     !小米设置详细参数
