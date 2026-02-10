@@ -70,10 +70,22 @@
     @@||mtool.app^$important
     !QQ空间发布说说误杀
     @@||cfg.imtt.qq.com^$important
-    !哔哩哔哩视频跳转链接误杀
+    !哔哩哔哩视频跳转链接
     @@||b23.tv^$important
     !deepseek官网
     @@||chat.deepseek.com^$important
+    !QQ内部设置页面（如QQ空间等、会员中心、装扮商城等）
+    @@||qqvip-web.cdn-go.cn^$important
+    @@||qq-web.cdn-go.cn^$important
+    @@||qzone-web-v2.cdn-go.cn^$important
+    @@||framework.cdn-go.cn^$important
+    @@||gxh.material.qq.com^$important
+    @@||tam.cdn-go.cn^$important
+    !中国电信营业厅登陆、服务
+    @@||appgologin.189.cn^$important
+    @@||appfuwu.189.cn^$important
+    @@||w.189.cn^$important
+    @@||capp.189.cn^$important
     !
 
 ___
