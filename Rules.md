@@ -52,6 +52,7 @@
     @@||m805.lanosso.com^$important
     @@||shiduoduomie.lanzout.com^$important
     @@||m508.lanosso.com^$important
+    @@||m207.lanosso.com^$important
     !爱玩机工具箱
     @@||api.byyang.top^$important
     @@||file.byyang.top^$important
@@ -106,11 +107,23 @@
     @@||apilocate.amap.com^$important
     ！星穹铁道游戏内更新
     @@||autopatchos.starrails.com^$important
-    !天翼云盘
+    !天翼云盘网页登陆、下载
     @@||h5.cloud.189.cn^$important
     @@||open.e.189.cn^$important
     @@||static.e.189.cn^$important
     @@||cloud.dlife.cn^$important
+    !高德地图局部地区地图加载
+    @@||page.amap.com^$important
+    @@||faas-image.amap.com^$important
+    @@||ai.amap.com^$important
+    @@||aos-comment.amap.com^$important
+    @@||aloc-modeldata.amap.com^$important
+    @@||render-prod-tile.amap.com^$important
+    @@||aloc-control-plus.amap.com^$important
+    !小米相册创作工具下载
+    @@||cdn.cnbj1.fds.api.mi-img.com^$important
+    !很多网站、APP的定位请求
+    @@||aps.amap.com^$important
     !
 
 ___
