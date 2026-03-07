@@ -41,18 +41,7 @@
     @@||sf0.market.xiaomi.com^$important
     @@||t1.market.xiaomi.com^$important
     !蓝奏云域名
-    @@||wwbmr.lanzouw.com^$important
-    @@||statics.woozooo.com^$important
-    @@||hm.woozooo.com^$important
-    @@||images.bakstotre.com^$important
-    @@||developer-oss.lanrar.com^$important
-    @@||m306.lanosso.com^$important
-    @@||_446._https.m306.lanosso.com^$important
-    @@||c1018.lanosso.com^$important
-    @@||m805.lanosso.com^$important
-    @@||shiduoduomie.lanzout.com^$important
-    @@||m508.lanosso.com^$important
-    @@||m207.lanosso.com^$important
+    !蓝奏云域名天天换，用蓝奏云的时候临时关闭拦截吧，懒得添加规则了
     !爱玩机工具箱
     @@||api.byyang.top^$important
     @@||file.byyang.top^$important
@@ -124,6 +113,10 @@
     @@||cdn.cnbj1.fds.api.mi-img.com^$important
     !很多网站、APP的定位请求
     @@||aps.amap.com^$important
+    !新版雷神加速器APP加速时长开启关闭控制开关
+    @@||webapi.xxghh.biz^$important
+    !小爱翻译
+    @@||aivision.xiaoaiscan.net^$important
     !
 
 ___
